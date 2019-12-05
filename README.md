@@ -29,7 +29,7 @@ http://www.pbteach.com/post/java_distribut/springsecurity-12/
 
 ## 视频下载：
 
-http://www.pbteach.com/post/java_video/subject_springsecurity/
+http://www.pbteach.com/post/java_distribut/subject_springsecurity/
 
 
 
